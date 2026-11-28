@@ -52,12 +52,14 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mohammedyazanahmed-collab/coding-solutions/tree/master/0035-search-insert-position) |
 | [0566-reshape-the-matrix](https://github.com/mohammedyazanahmed-collab/coding-solutions/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/mohammedyazanahmed-collab/coding-solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/mohammedyazanahmed-collab/coding-solutions/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mohammedyazanahmed-collab/coding-solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/mohammedyazanahmed-collab/coding-solutions/tree/master/0704-binary-search) |
 ## Matrix
 |  |

@@ -53,8 +53,17 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/mohammedyazanahmed-collab/coding-solutions/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/mohammedyazanahmed-collab/coding-solutions/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/mohammedyazanahmed-collab/coding-solutions/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/mohammedyazanahmed-collab/coding-solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/mohammedyazanahmed-collab/coding-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
